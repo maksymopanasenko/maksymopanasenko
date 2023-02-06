@@ -12,6 +12,8 @@
 [<img align="left" alt="telegram" width="42px" src="img/telegram.svg" />][telegram]
 [<img align="left" alt="instagram" width="42px" src="img/instagram.svg" />][instagram]
 
+<br/>
+<br/>
 
 ### Languages and Tools:
 
